@@ -1,4 +1,5 @@
-# ASUS TUF Gaming A15 FA507UV — Hackintosh Project
+# 华硕天选 5（魔幻青）FA507UV 黑苹果 EFI 项目
+**ASUS TUF Gaming A15 FA507UV | AMD Ryzen 7 8845H | Hackintosh / OpenCore EFI**
 
 > **本仓库是个人实机记录，不是通用 EFI，也不是对所有 FA507UV 批次的兼容性承诺。** 内容区分了已验证结果、用户回忆、尚未定位的配置细节和未测试项目。复用前请核对硬件 ID、BIOS、OpenCore、kext 版本和 USB 映射。
 
