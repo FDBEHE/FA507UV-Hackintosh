@@ -1,0 +1,27 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode / build output
+DerivedData/
+build/
+*.xcarchive
+*.dSYM/
+
+# Local EFI identity and generated backups
+EFI/OC/config.plist
+EFI/OC/Kexts/UTBMap.kext.nullmoth-*/
+*.backup
+*.bak
+*.log
+
+# Local secrets / credentials
+*.p12
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+secrets/
+private/
+.DS_Store
+EFI/oc/config.plist.*
